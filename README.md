@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I’m a Master's student in Computer Science at NC
 
 ## 👩‍💻 About Me
 
-- 📍 Based in Raleigh, NC
-- 🧠 Currently diving deeper into **Algorithms, Software Engineering, Cryptography**, and **Object-Oriented Design**
-- 🌐 Previously built full-stack web and mobile applications
+- 📍 Based in Raleigh, NC  
+- 🧠 Currently diving deeper into **Algorithms, Software Engineering, Cryptography**, and **Object-Oriented Design**  
+- 🌐 Previously built full-stack web and mobile applications  
 - 🔧 Love working with **JavaScript, Python, Java**, and **MERN stack**
 
 ## 💼 Experience
@@ -14,25 +14,34 @@ Welcome to my GitHub profile! I’m a Master's student in Computer Science at NC
 **Android Developer @ MahiTech LLC**  
 _Remote (San Jose, CA) | Jan 2024 – May 2024_
 
-- Built core features like User Authentication and Interactive Maps using Firebase and Google Maps SDK
-- Implemented Room Database for offline support, reducing load time by 25%
+- Built core features like User Authentication and Interactive Maps using Firebase and Google Maps SDK  
+- Implemented Room Database for offline support, reducing load time by 25%  
 - Integrated FCM for push notifications, boosting user engagement
+
+## 🧠 Open Source Contributions
+
+**[Expertiza (NC State University)](https://github.com/expertiza/expertiza)**  
+*Ruby on Rails, JavaScript*  
+- Reimplemented the Question Hierarchy module to improve maintainability and scalability  
+- Refactored UI components and enhanced mobile responsiveness  
+- Cleaned up legacy partials and improved HTML generation logic
 
 ## 🛠 Projects
 
-### 💊 Hospital Management System
+### 💊 Hospital Management System  
 **Tech:** JavaScript, HTML, PHP, MySQL  
-- Led the Pharmacy module, automated inventory and order tracking
+- Led the Pharmacy module, automated inventory and order tracking  
 - Implemented secure RBAC access and optimized patient registration flow
 
-### 📊 Interwoven – Research Journal Platform
+### 📊 Interwoven – Research Journal Platform  
 **Tech:** Next.js, Node.js, MongoDB, Tailwind CSS  
-- Built a complete research platform to track submissions and peer reviews
+- Built a complete research platform to track submissions and peer reviews  
 - Designed the frontend and led feature development for improved transparency
+-This platform was built for my university after faculty members expressed concerns about the inefficiencies of manual processes
 
-### 📚 Expertiza – Question Hierarchy Reimplementation
+### 📚 Expertiza – Question Hierarchy Reimplementation  
 **Tech:** Ruby on Rails, JavaScript  
-- Refactored item hierarchies and optimized frontend UI
+- Refactored item hierarchies and optimized frontend UI  
 - Improved maintainability and mobile responsiveness
 
 ## 🧰 Skills
