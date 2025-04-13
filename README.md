@@ -1,3 +1,6 @@
+Sure! Here's your updated GitHub profile README in `.md` format so you can copy-paste it directly into your `README.md` file:
+
+```markdown
 # Hi there, I'm Anchal Kakadia 👋
 
 Welcome to my GitHub profile! I’m a Master's student in Computer Science at NC State University (graduating in 2026), passionate about building impactful software and solving real-world problems with technology.
@@ -26,6 +29,10 @@ _Remote (San Jose, CA) | Jan 2024 – May 2024_
 - Refactored UI components and enhanced mobile responsiveness  
 - Cleaned up legacy partials and improved HTML generation logic
 
+**[AlgoMonster](https://github.com/algomonster/algomonster)**  
+*Python*  
+- Contributed test cases to strengthen problem validation and improve edge case coverage
+
 ## 🛠 Projects
 
 ### 💊 Hospital Management System  
@@ -36,7 +43,7 @@ _Remote (San Jose, CA) | Jan 2024 – May 2024_
 ### 📊 Interwoven – Research Journal Platform  
 **Tech:** Next.js, Node.js, MongoDB, Tailwind CSS  
 - Built a complete research platform to track submissions and peer reviews  
-- Designed the frontend and led feature development for improved transparency
+- Designed the frontend and led feature development for improved transparency  
 - This platform was built for my university after faculty members expressed concerns about the inefficiencies of manual processes
 
 ### 📚 Expertiza – Question Hierarchy Reimplementation  
@@ -66,3 +73,6 @@ _Remote (San Jose, CA) | Jan 2024 – May 2024_
 ---
 
 Thanks for visiting my profile! Always happy to collaborate, learn, and build together.
+```
+
+Let me know if you want to add images, badges, or customize the layout even more!
