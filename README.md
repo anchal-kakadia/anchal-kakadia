@@ -26,7 +26,7 @@ _Remote (San Jose, CA) | Jan 2024 – May 2024_
 - Refactored UI components and enhanced mobile responsiveness  
 - Cleaned up legacy partials and improved HTML generation logic
 
-**[AlgoMonster]([https://github.com/algomonster/algomonster](https://github.com/realAlgoMonster/contrib/issues?q=is%3Aissue%20state%3Aopen%20author%3Aanchal-kakadia)**  
+**[AlgoMonster](https://github.com/realAlgoMonster/contrib/issues?q=is%3Aissue%20state%3Aopen%20author%3Aanchal-kakadia)**  
 *Python*  
 - Contributed test cases to strengthen problem validation and improve edge case coverage
 
