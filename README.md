@@ -37,7 +37,7 @@ _Remote (San Jose, CA) | Jan 2024 – May 2024_
 **Tech:** Next.js, Node.js, MongoDB, Tailwind CSS  
 - Built a complete research platform to track submissions and peer reviews  
 - Designed the frontend and led feature development for improved transparency
--This platform was built for my university after faculty members expressed concerns about the inefficiencies of manual processes
+- This platform was built for my university after faculty members expressed concerns about the inefficiencies of manual processes
 
 ### 📚 Expertiza – Question Hierarchy Reimplementation  
 **Tech:** Ruby on Rails, JavaScript  
