@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a Master's student in Computer Science at NC
 - 📍 Based in Raleigh, NC  
 - 🧠 Currently diving deeper into **Algorithms, Software Engineering, Cryptography**, and **Object-Oriented Design**  
 - 🌐 Previously built full-stack web and mobile applications  
-- 🔧 Love working with **JavaScript, Python, Java**, and **MERN stack**
+- 🔧 Love working with **Python, JavaScript, Java**, and **MERN stack**
 
 ## 💼 Experience
 
