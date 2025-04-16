@@ -51,12 +51,6 @@ _Remote (San Jose, CA) | Jan 2024 – May 2024_
 - Past analysis dashboard for deep application insights and continuous improvement  
 - Smooth UX with bug fixes and performance enhancements  
 
-
-### 💊 Hospital Management System  
-**Tech:** JavaScript, HTML, PHP, MySQL  
-- Led the Pharmacy module, automated inventory and order tracking  
-- Implemented secure RBAC access and optimized patient registration flow
-
 ### 📊 Interwoven – Research Journal Platform  
 **Tech:** Next.js, Node.js, MongoDB, Tailwind CSS  
 - Built a complete research platform to track submissions and peer reviews  
@@ -67,6 +61,12 @@ _Remote (San Jose, CA) | Jan 2024 – May 2024_
 **Tech:** Ruby on Rails, JavaScript  
 - Refactored item hierarchies and optimized frontend UI  
 - Improved maintainability and mobile responsiveness
+
+### 💊 Hospital Management System  
+**Tech:** JavaScript, HTML, PHP, MySQL  
+- Led the Pharmacy module, automated inventory and order tracking  
+- Implemented secure RBAC access and optimized patient registration flow
+
 
 ## 🧰 Skills
 
