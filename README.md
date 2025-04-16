@@ -33,6 +33,25 @@ _Remote (San Jose, CA) | Jan 2024 – May 2024_
 
 ## 🛠 Projects
 
+### 🥘 My Cookbook  
+**Tech Stack:** Python · React · MongoDB · Material UI · OpenAI API  
+
+- AI-powered meal planner with personalized recipe recommendations based on dietary needs, ingredients, and cooking behavior  
+- Drag-and-drop meal calendar and auto-generated shopping lists  
+- Voice-enabled, hands-free cooking mode with interactive timers and guided steps  
+- Dynamic recipe scaling with serving slider; auto-updates ingredients and nutrition (macros + vitamins)  
+- Smart ingredient substitutions to reduce food waste and enhance user experience  
+
+### 💼 J-Tracker  
+**Tech Stack:** Python · React · MongoDB · Material UI · OpenAI API  
+
+- AI-driven job application tracker with intelligent job recommendations tailored to user skills and preferences  
+- Resume-to-job comparisons and benchmarking using AI; categorized status tracking (Applied, Rejected, Wishlist, etc.)  
+- Persistent skill tracking and optimized profile management across sessions  
+- Past analysis dashboard for deep application insights and continuous improvement  
+- Smooth UX with bug fixes and performance enhancements  
+
+
 ### 💊 Hospital Management System  
 **Tech:** JavaScript, HTML, PHP, MySQL  
 - Led the Pharmacy module, automated inventory and order tracking  
