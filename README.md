@@ -49,6 +49,14 @@ _Remote (San Jose, CA) | Jan 2024 – May 2024_
 
 ## 🛠 Projects
 
+### 💰 Expense Tracker Application
+**Tech Stack:** React · Node.js · Express · MongoDB · Docker · JWT Authentication · Microservices Architecture
+
+- Designed and implemented a **microservices architecture** (auth, analytics, reporting) using the **MERN stack** to improve scalability and maintainability  
+- Developed a robust **reporting module** and optimized MongoDB queries, reducing report generation time significantly, powered by **JWT authentication**  
+- Integrated **Docker** into CI/CD pipelines to automate testing and deployment across environments  
+- Planned automated expense logging through **message parsing**, enhancing system intelligence and usability  
+
 ### 🥘 My Cookbook  
 **Tech Stack:** Python · React · MongoDB · Material UI · OpenAI API  
 
