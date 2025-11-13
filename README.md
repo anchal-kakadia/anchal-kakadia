@@ -5,11 +5,27 @@ Welcome to my GitHub profile! I’m a Master's student in Computer Science at NC
 ## 👩‍💻 About Me
 
 - 📍 Based in Raleigh, NC  
-- 🧠 Currently diving deeper into **Algorithms, Software Engineering, Cryptography**, and **Object-Oriented Design**  
-- 🌐 Previously built full-stack web and mobile applications  
-- 🔧 Love working with **Python, JavaScript, Java**, and **MERN stack**
+- 🧠 Currently diving deeper into **Algorithms, Software Engineering, Object-Oriented Design, DevOps**,  and **Applied AI**  
+- 🌐 Previously built full-stack web and mobile applications with applied AI integrations for real-time and intelligent functionality  
+- 🔧 Love working with **JavaScript, MERN Stack, Python**, and **Java**
 
 ## 💼 Experience
+
+### **Full Stack Developer @ EnBiSys Lab – Sweet-APPS Project (NCSU)**  
+_Raleigh, NC | Oct 2025 – Present_
+
+- Designed and tested scalable backend services using **Node.js** and **Azure PostgreSQL** to streamline research data management  
+- Collaborated with interdisciplinary teams to integrate analytics with software systems, improving usability for agricultural researchers  
+- Built APIs and data pipelines supporting **real-time data analytics** for North Carolina’s sweet potato industry  
+- Enhanced system reliability through **code refactoring**, **schema design** 
+
+### **Software Engineering Intern @ Tailon Labs**  
+_Remote (Raleigh, NC) | May 2025 – Jul 2025_
+
+- Developed scalable backend modules using **Node.js** and **Express**, reducing onboarding time by 30% for 500+ users  
+- Integrated **OpenAI Realtime API**, **Heygen SDK**, and **Web Audio (VAD)** to enable real-time, AI-driven voice interactions  
+- Optimized avatar response pipelines for near-real-time synchronization, enhancing communication efficiency  
+- Migrated workflows to **AWS** with **PostgreSQL**, improving deployment reliability and implementing **CI/CD** practices  
 
 **Android Developer @ MahiTech LLC**  
 _Remote (San Jose, CA) | Jan 2024 – May 2024_
