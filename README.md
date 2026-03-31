@@ -42,6 +42,7 @@ At MahiTech, I worked on offline-first Android systems used by thousands of user
 **Ruby · GPT-4 · GitHub Actions**
 
 **Problem**
+
 Code reviews in academic settings were inconsistent and difficult to scale. Enforcing design principles like SOLID depended heavily on the reviewer.
 
 **Solution**
@@ -64,6 +65,7 @@ Code reviews in academic settings were inconsistent and difficult to scale. Enfo
 **MERN · Docker · JWT · TDD**
 
 **Problem**
+
 Monolithic systems limit scalability and make it harder to evolve features independently. The goal was to deeply understand system design beyond implementation.
 
 **Solution**
@@ -86,6 +88,7 @@ Monolithic systems limit scalability and make it harder to evolve features indep
 **Python · React · OpenAI API**
 
 **Problem**
+
 Meal planning tools are static and fail to adapt to user preferences or real-world usage patterns.
 
 **Solution**
@@ -107,6 +110,7 @@ Meal planning tools are static and fail to adapt to user preferences or real-wor
 **React · Node.js · MongoDB · OpenAI API**
 
 **Problem**
+
 Job tracking tools lack structure and actionable insights, making it difficult for users to improve outcomes.
 
 **Solution**
@@ -128,6 +132,7 @@ Job tracking tools lack structure and actionable insights, making it difficult f
 **Next.js · Node.js · MongoDB**
 
 **Problem**
+
 Manual academic workflows led to inefficiencies and lack of transparency.
 
 **Solution**
