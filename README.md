@@ -60,6 +60,31 @@ Code reviews in academic settings were inconsistent and difficult to scale. Enfo
 
 ---
 
+## 🚀 ChefOps — Cloud Kitchen CI/CD Platform
+
+**Node.js · React · Docker · GitHub Actions · Ansible**
+
+**Problem**
+
+Cloud kitchen platforms require frequent menu and availability updates, but manual deployments lead to downtime, inconsistent environments, and increased risk of untested changes reaching production during peak hours.
+
+**Solution**
+
+* Built a production-grade **CI/CD pipeline** using **GitHub Actions** with automated linting, testing, build, and deployment stages
+* Implemented **Gitflow workflow** (development → staging → production) with strict branch protection
+* Containerized frontend and backend using **Docker** for consistent deployments
+* Used **Ansible** for infrastructure as code and automated environment setup
+* Designed **health checks and rollback mechanisms** to ensure safe, verifiable releases
+
+**Result**
+
+* Enabled fully automated, zero-manual-intervention deployments
+* Reduced risk of broken releases through enforced quality gates
+* Ensured consistent environments across development, staging, and production
+* Improved system reliability and minimized downtime during frequent updates
+
+---
+
 ## 💰 Expense Tracker (Microservices Architecture)
 
 **MERN · Docker · JWT · TDD**
