@@ -1,116 +1,173 @@
-# Hi there, I'm Anchal Kakadia 👋
 
-Welcome to my GitHub profile! I’m a Master's student in Computer Science at NC State University (graduating in 2026), passionate about building impactful software and solving real-world problems with technology.
+# Hi, I’m Anchal Kakadia
 
-## 👩‍💻 About Me
+I build software that turns data into decisions and AI into reliable systems.
 
-- 📍 Based in Raleigh, NC  
-- 🧠 Currently diving deeper into **Algorithms, Software Engineering, Object-Oriented Design, DevOps**,  and **Applied AI**  
-- 🌐 Previously built full-stack web and mobile applications with applied AI integrations for real-time and intelligent functionality  
-- 🔧 Love working with **JavaScript, MERN Stack, Python**, and **Java**
-
-## 💼 Experience
-
-### **Full Stack Developer @ EnBiSys Lab – Sweet-APPS Project (NCSU)**  
-_Raleigh, NC | Oct 2025 – Present_
-
-- Designed and tested scalable backend services using **Node.js** and **Azure PostgreSQL** to streamline research data management  
-- Collaborated with interdisciplinary teams to integrate analytics with software systems, improving usability for agricultural researchers  
-- Built APIs and data pipelines supporting **real-time data analytics** for North Carolina’s sweet potato industry  
-- Enhanced system reliability through **code refactoring**, **schema design** 
-
-### **Software Engineering Intern @ Tailon Labs**  
-_Remote (Raleigh, NC) | May 2025 – Jul 2025_
-
-- Developed scalable backend modules using **Node.js** and **Express**, reducing onboarding time by 30% for 500+ users  
-- Integrated **OpenAI Realtime API**, **Heygen SDK**, and **Web Audio (VAD)** to enable real-time, AI-driven voice interactions  
-- Optimized avatar response pipelines for near-real-time synchronization, enhancing communication efficiency  
-- Migrated workflows to **AWS** with **PostgreSQL**, improving deployment reliability and implementing **CI/CD** practices  
-
-**Android Developer @ MahiTech LLC**  
-_Remote (San Jose, CA) | Jan 2024 – May 2024_
-
-- Built core features like User Authentication and Interactive Maps using Firebase and Google Maps SDK  
-- Implemented Room Database for offline support, reducing load time by 25%  
-- Integrated FCM for push notifications, boosting user engagement
-
-## 🧠 Open Source Contributions
-
-**[Expertiza (NC State University)](https://github.com/expertiza/expertiza)**  
-*Ruby on Rails, JavaScript*  
-- Reimplemented the Question Hierarchy module to improve maintainability and scalability  
-- Refactored UI components and enhanced mobile responsiveness  
-- Cleaned up legacy partials and improved HTML generation logic
-
-**[AlgoMonster](https://github.com/realAlgoMonster/contrib/issues?q=is%3Aissue%20state%3Aopen%20author%3Aanchal-kakadia)**  
-*Python*  
-- Contributed test cases to strengthen problem validation and improve edge case coverage
-
-
-## 🛠 Projects
-
-### 💰 Expense Tracker Application
-**Tech Stack:** React · Node.js · Express · MongoDB · Docker · JWT Authentication · Microservices Architecture
-
-- Designed and implemented a **microservices architecture** (auth, analytics, reporting) using the **MERN stack** to improve scalability and maintainability  
-- Developed a robust **reporting module** and optimized MongoDB queries, reducing report generation time significantly, powered by **JWT authentication**  
-- Integrated **Docker** into CI/CD pipelines to automate testing and deployment across environments  
-- Planned automated expense logging through **message parsing**, enhancing system intelligence and usability  
-
-### 🥘 My Cookbook  
-**Tech Stack:** Python · React · MongoDB · Material UI · OpenAI API  
-
-- AI-powered meal planner with personalized recipe recommendations based on dietary needs, ingredients, and cooking behavior  
-- Drag-and-drop meal calendar and auto-generated shopping lists  
-- Voice-enabled, hands-free cooking mode with interactive timers and guided steps  
-- Dynamic recipe scaling with serving slider; auto-updates ingredients and nutrition (macros + vitamins)  
-- Smart ingredient substitutions to reduce food waste and enhance user experience  
-
-### 💼 J-Tracker  
-**Tech Stack:** Python · React · MongoDB · Material UI · OpenAI API  
-
-- AI-driven job application tracker with intelligent job recommendations tailored to user skills and preferences  
-- Resume-to-job comparisons and benchmarking using AI; categorized status tracking (Applied, Rejected, Wishlist, etc.)  
-- Persistent skill tracking and optimized profile management across sessions  
-- Past analysis dashboard for deep application insights and continuous improvement  
-- Smooth UX with bug fixes and performance enhancements  
-
-### 📊 Interwoven – Research Journal Platform  
-**Tech:** Next.js, Node.js, MongoDB, Tailwind CSS  
-- Built a complete research platform to track submissions and peer reviews  
-- Designed the frontend and led feature development for improved transparency
-- This platform was built for my university after faculty members expressed concerns about the inefficiencies of manual processes
-
-### 📚 Expertiza – Question Hierarchy Reimplementation  
-**Tech:** Ruby on Rails, JavaScript  
-- Refactored item hierarchies and optimized frontend UI  
-- Improved maintainability and mobile responsiveness
-
-### 💊 Hospital Management System  
-**Tech:** JavaScript, HTML, PHP, MySQL  
-- Led the Pharmacy module, automated inventory and order tracking  
-- Implemented secure RBAC access and optimized patient registration flow
-
-
-## 🧰 Skills
-
-**Languages:** Python, Java, JavaScript, HTML/CSS, Ruby, SQL  
-**Tools/Frameworks:** MERN Stack, Ruby on Rails, Flutter, Git, Firebase  
-**Databases:** MySQL, MongoDB, Room  
-**Other:** Figma, Zsh/Bash, Homebrew, Packet Tracer
-
-## 📜 Certifications
-
-- AWS Academy Cloud Foundations  
-- AWS Academy Machine Learning Foundations  
-- NPTEL – Operating Systems
-
-## 🔗 Connect with Me
-
-- **LinkedIn:** [anchaltk](https://linkedin.com/in/anchaltk)  
-- **GitHub:** [anchal-kakadia](https://github.com/anchal-kakadia)  
-- **Email:** anchalkakadiasde@gmail.com  
+Master’s in Computer Science at NC State University (2026) with hands-on experience designing full-stack applications, real-time data pipelines, and AI-driven systems used in practical environments. I focus on building systems that are not only functional, but **scalable, observable, and meaningful in real-world use**.
 
 ---
 
-Thanks for visiting my profile! Always happy to collaborate, learn, and build together.
+## What I care about
+
+I approach engineering as a balance between **system design and intelligent behavior**.
+
+I don’t treat AI as a plug-in feature. I design:
+
+* where it belongs in a system
+* how it interacts with deterministic logic
+* how to make it reliable under constraints like latency, incomplete input, and edge cases
+
+This shows up in my work through:
+
+* real-time AI pipelines that handle user input and produce structured outputs
+* systems that combine backend engineering, data flow, and decision layers
+* a focus on correctness, not just capability
+
+---
+
+## What I’ve built and worked on
+
+At EnBiSys Lab, I build full-stack systems that process real-time agricultural data and surface insights for stakeholders. I work across React, Node.js, and Azure PostgreSQL to design APIs, pipelines, and dashboards that support decision-making in production settings. My work improved pipeline reliability and reduced failure rates while making the system easier to maintain and extend. 
+
+At Tailon Labs, I built a real-time conversational AI system for loan workflows. The system handled voice input, transcription, structured data extraction, and backend integration. The focus was not just on using LLMs, but on making the system reliable end-to-end. This reduced onboarding time by 30% for hundreds of users and exposed me to real-world constraints of AI systems such as latency, synchronization, and data sensitivity. 
+
+At MahiTech, I worked on offline-first Android systems used by thousands of users. I designed storage and sync mechanisms that ensured reliability even in low-connectivity environments and improved operational efficiency by reducing processing time. 
+
+---
+
+## Selected Work
+
+## 🔍 LLM-Based Code Review Automation
+
+**Ruby · GPT-4 · GitHub Actions**
+
+**Problem**
+Code reviews in academic settings were inconsistent and difficult to scale. Enforcing design principles like SOLID depended heavily on the reviewer.
+
+**Solution**
+
+* Built an automated evaluation pipeline in **Ruby**, aligned with an existing codebase
+* Used **GPT-4** to analyze submissions against **SOLID principles**
+* Designed a **structured scoring system** to standardize evaluation
+* Integrated with **GitHub Actions** to trigger reviews automatically
+
+**Result**
+
+* Reduced manual review effort by ~40%
+* Standardized feedback across all submissions
+* Showcased LLMs as a tool for **structured analysis, not just generation**
+
+---
+
+## 💰 Expense Tracker (Microservices Architecture)
+
+**MERN · Docker · JWT · TDD**
+
+**Problem**
+Monolithic systems limit scalability and make it harder to evolve features independently. The goal was to deeply understand system design beyond implementation.
+
+**Solution**
+
+* Designed a **microservices architecture** (auth, analytics, reporting)
+* Built REST APIs with **JWT-based authentication**
+* Applied **test-driven development (TDD)** for reliability
+* Containerized services using **Docker**
+
+**Result**
+
+* Improved modularity and scalability
+* Strengthened understanding of **service boundaries and system design**
+* Shifted focus from writing code → designing systems
+
+---
+
+## 🥘 MyCookbook (AI-Integrated System)
+
+**Python · React · OpenAI API**
+
+**Problem**
+Meal planning tools are static and fail to adapt to user preferences or real-world usage patterns.
+
+**Solution**
+
+* Integrated AI into an existing system to generate **personalized recommendations**
+* Designed efficient APIs for **scalable data handling**
+* Focused on extending a system rather than rebuilding it
+
+**Result**
+
+* Improved response time by ~30%
+* Demonstrated how AI can act as an **augmentation layer in real systems**
+* Learned how to integrate AI without breaking system design
+
+---
+
+## 💼 J-Tracker (Intelligent Workflow System)
+
+**React · Node.js · MongoDB · OpenAI API**
+
+**Problem**
+Job tracking tools lack structure and actionable insights, making it difficult for users to improve outcomes.
+
+**Solution**
+
+* Built structured workflows for tracking application states
+* Integrated AI for **resume-job comparison and insights**
+* Designed dashboards for **data-driven tracking**
+
+**Result**
+
+* Improved clarity and organization in job search workflows
+* Enabled better decision-making through structured insights
+* Reinforced importance of **user-centric system design**
+
+---
+
+## 📊 Interwoven (Research Workflow Platform)
+
+**Next.js · Node.js · MongoDB**
+
+**Problem**
+Manual academic workflows led to inefficiencies and lack of transparency.
+
+**Solution**
+
+* Built a full-stack platform for **submission and peer review workflows**
+* Focused on usability and transparency for academic users
+* Designed end-to-end system handling real use cases
+
+**Result**
+
+* Reduced manual coordination overhead
+* Created a scalable and structured research workflow system
+
+---
+
+## Tech I use
+
+Python, JavaScript, TypeScript, Java
+React, Next.js, Node.js, Express
+PostgreSQL, MongoDB
+AWS, Azure, Docker, GitHub Actions
+OpenAI APIs, prompt design, real-time systems
+
+---
+
+## What I’m working toward
+
+I am focused on becoming an engineer who can:
+
+* design systems end-to-end, not just implement parts
+* build AI-powered features that are reliable and measurable
+* contribute meaningfully to products that solve real problems
+
+---
+
+## Let’s connect
+
+LinkedIn: [https://linkedin.com/in/anchaltk](https://linkedin.com/in/anchaltk)
+GitHub: [https://github.com/anchal-kakadia](https://github.com/anchal-kakadia)
+
+---
+
+I aim to build systems that are not only technically correct, but **useful, dependable, and worth scaling**.
