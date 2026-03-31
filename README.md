@@ -1,27 +1,27 @@
 
 # Hi, I’m Anchal Kakadia
 
-I build software that turns data into decisions and AI into reliable systems.
-
 Master’s in Computer Science at NC State University (2026) with hands-on experience designing full-stack applications, real-time data pipelines, and AI-driven systems used in practical environments. I focus on building systems that are not only functional, but **scalable, observable, and meaningful in real-world use**.
 
 ---
 
 ## What I care about
 
-I approach engineering as a balance between **system design and intelligent behavior**.
+I don’t start with code. I start with how a system behaves.
 
-I don’t treat AI as a plug-in feature. I design:
+I think in terms of data flow, system boundaries, and how things hold up under real-world constraints like latency, incomplete inputs, and edge cases. That perspective shapes how I build, whether it’s a real-time data pipeline, a dashboard, or an AI-driven feature.
 
-* where it belongs in a system
-* how it interacts with deterministic logic
-* how to make it reliable under constraints like latency, incomplete input, and edge cases
+I’ve built end-to-end systems using React, Node.js, TypeScript, and PostgreSQL, with a strong focus on backend flows, correctness, and reliability. I enjoy working across the stack, but I’m most drawn to designing systems where the interactions between components are just as important as the components themselves.
 
-This shows up in my work through:
+When I use AI, I don’t treat it as a plug-in. I treat it as a non-deterministic part of the system that needs structure, validation, and clear boundaries to be useful in production.
 
-* real-time AI pipelines that handle user input and produce structured outputs
-* systems that combine backend engineering, data flow, and decision layers
-* a focus on correctness, not just capability
+Most of my work sits at the intersection of:
+
+real-time data systems
+backend design and APIs
+AI integrated into structured workflows
+
+I’m currently focused on building systems that are not just functional, but reliable, observable, and production-ready.
 
 ---
 
