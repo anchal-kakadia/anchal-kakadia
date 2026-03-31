@@ -172,7 +172,3 @@ I am focused on becoming an engineer who can:
 
 LinkedIn: [https://linkedin.com/in/anchaltk](https://linkedin.com/in/anchaltk)
 GitHub: [https://github.com/anchal-kakadia](https://github.com/anchal-kakadia)
-
----
-
-I aim to build systems that are not only technically correct, but **useful, dependable, and worth scaling**.
